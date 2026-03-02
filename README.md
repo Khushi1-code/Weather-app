@@ -1,2 +1,22 @@
 # Weather Web Application
-A responsive dark-themed weather web application built using HTML, CSS, and JavaScript. The app takes a city name as input and fetches real-time weather data (temperature, humidity, and pressure) using the OpenWeather API. It dynamically updates the DOM to display results and includes basic error handling for invalid inputs.
+
+A responsive dark-themed weather web application built using HTML, CSS, and JavaScript.
+
+## 🚀 Features
+- Search weather by city name
+- Displays temperature, humidity, and pressure
+- Real-time data using OpenWeather API
+- Error handling for invalid cities
+
+## 🛠 Tech Stack
+- HTML
+- CSS
+- JavaScript
+- OpenWeather API
+
+## 🔗 Live Demo
+https://khushi1-code.github.io/Weather-app/
+
+## 📌 What I Learned
+- API integration using fetch()
+- Deploying using GitHub Pages
